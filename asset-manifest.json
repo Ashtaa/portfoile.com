@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ashtaa/portfoile/static/css/main.12630db2.css",
+    "main.js": "/Ashtaa/portfoile/static/js/main.7682f8cb.js",
+    "static/js/453.1407b060.chunk.js": "/Ashtaa/portfoile/static/js/453.1407b060.chunk.js",
+    "static/media/cv.pdf": "/Ashtaa/portfoile/static/media/cv.b26b6d8e9e8dfe3d5bf5.pdf",
+    "static/media/lamasion.jpg": "/Ashtaa/portfoile/static/media/lamasion.54754bd741a1f3418528.jpg",
+    "static/media/clinic.jpg": "/Ashtaa/portfoile/static/media/clinic.4db0a4519877560a4adf.jpg",
+    "static/media/me.jpg": "/Ashtaa/portfoile/static/media/me.08db2dcb837ea1bd409a.jpg",
+    "static/media/camera man.jpg": "/Ashtaa/portfoile/static/media/camera man.c96a2fbb8eaeb964c172.jpg",
+    "static/media/yekuno.jpg": "/Ashtaa/portfoile/static/media/yekuno.35c013ebf216c3a7c085.jpg",
+    "index.html": "/Ashtaa/portfoile/index.html",
+    "main.12630db2.css.map": "/Ashtaa/portfoile/static/css/main.12630db2.css.map",
+    "main.7682f8cb.js.map": "/Ashtaa/portfoile/static/js/main.7682f8cb.js.map",
+    "453.1407b060.chunk.js.map": "/Ashtaa/portfoile/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12630db2.css",
+    "static/js/main.7682f8cb.js"
+  ]
+}
